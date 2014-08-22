@@ -1,0 +1,30 @@
+{
+  "name": "codrops2bower-tooltipMenu",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kaitoborn/codrops2bower",
+  "authors": [
+    "kaitoborn <kaitoborn@gmail.com>"
+  ],
+  "description": "RT",
+  "main": "placeholder",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "codrops",
+    "codrops2bower",
+    "tooltipMenu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
