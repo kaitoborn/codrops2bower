@@ -21,7 +21,7 @@
 
 ### Install
 
-  $ bower install kaitoborn/codrops2bower#tooltipMenu --save
+    $ bower install kaitoborn/codrops2bower#tooltipMenu --save
 
 
 ## Authors
