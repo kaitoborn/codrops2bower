@@ -6,7 +6,10 @@
     "kaitoborn <kaitoborn@gmail.com>"
   ],
   "description": "RT",
-  "main": "placeholder",
+  "main": [
+    "js/cbpTooltipMenu.min.js",
+    "css/cbpTooltipMenu.css"
+  ],
   "moduleType": [
     "amd",
     "es6",
@@ -28,7 +31,7 @@
     "tests"
   ],
   "devDependencies": {
-    "modernizr": "~2.6.2",
+    "modernizr": "~2.8.0",
     "font-awesome": "~4.1.0"
   }
 }
