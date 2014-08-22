@@ -15,14 +15,20 @@
 
 ## Progress
 
-- Is Planning!
++ @done (2014-08-22 17:30)
 
 ## Quick start
 
 ### Install
 
     $ bower install kaitoborn/codrops2bower#tooltipMenu --save
+  
+    Error: 'Tag/branch master does not exist'(iTerm with Fish), try:
+    $ bower install kaitoborn/codrops2bower'#tooltipMenu' --save
 
+### Uninstall
+
+    $ bower uninstall codrops2bower-tooltipMenu --save
 
 ## Authors
 

@@ -30,7 +30,7 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
+  "dependencies": {
     "modernizr": "~2.8.0",
     "font-awesome": "~4.1.0"
   }
