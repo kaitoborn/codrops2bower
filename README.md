@@ -52,12 +52,13 @@ ul#cbp-tm-menu.cbp-tm-menu
 
 ## Demo
 
-+ [Preview](dist/demo.md)
++ [Preview](http://htmlpreview.github.io/?https://github.com/kaitoborn/codrops2bower/blob/tooltipMenu/dist/demo.html)
 + [Sorce](dist/demo.html)
 
 ## Logs
 
 ```
+* c588c39 Update Readme && Demo
 * 6010b95 Update Readme
 * f91319f Fixed: Bower dependencies
 * b668593 2bower success
