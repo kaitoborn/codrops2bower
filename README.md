@@ -50,19 +50,34 @@ ul#cbp-tm-menu.cbp-tm-menu
       new cbpTooltipMenu( document.getElementById( 'cbp-tm-menu' ) );
     </script>
 
-### [Demo](dist/demo.html)
+## Demo
+
++ [Preview](dist/demo.md)
++ [Sorce](dist/demo.html)
 
 ## Logs
 
-+ 2bower @done (2014-08-22 17:30)
-+ Simplify CSS @done (2014-08-22 17:30)
-- Update Readme: Usage
+```
+* 6010b95 Update Readme
+* f91319f Fixed: Bower dependencies
+* b668593 2bower success
+* 8e67e88 import codrops src
+* 1dd14a6 Fixed: Lisence copyright && Readme code block
+* 59bc662 General Info
+* 6b1ce83 Add General .gitignore
+* b3c33fa Initial commit
+```
 
 ## Authors
 
-**Kaitoborn**
-
-- <https://github.com/kaitoborn>
+```
+project  : codrops2bower
+repo age : 34 hours
+active   : 2 days
+commits  : 8
+authors  :
+    8 kaitoborn               100.0%
+```
 
 ## License
 
