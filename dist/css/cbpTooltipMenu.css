@@ -71,6 +71,7 @@ body {
 
 .cbp-tm-submenu > li {
 	background: #fff;
+	display: block;
 }
 
 .cbp-tm-submenu > li > a {
