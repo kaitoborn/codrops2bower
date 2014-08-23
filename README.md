@@ -9,7 +9,6 @@
 ## Table of contents
 
 - [Usage](#usage)
-- [Logs](#logs)
 - [Authors](#authors)
 - [License](#license)
 
@@ -19,8 +18,10 @@
 
 ```
 $ bower install kaitoborn/codrops2bower#tooltipMenu --save
+```
 
-Error: 'Tag/branch master does not exist'(iTerm with Fish), try:
+```
+Or, try(Error: 'Tag/branch master does not exist'):
 $ bower install kaitoborn/codrops2bower'#tooltipMenu' --save
 ```
 
@@ -55,29 +56,15 @@ ul#cbp-tm-menu.cbp-tm-menu
 + [Preview](http://htmlpreview.github.io/?https://github.com/kaitoborn/codrops2bower/blob/tooltipMenu/dist/demo.html)
 + [Sorce](dist/demo.html)
 
-## Logs
-
-```
-* c588c39 Update Readme && Demo
-* 6010b95 Update Readme
-* f91319f Fixed: Bower dependencies
-* b668593 2bower success
-* 8e67e88 import codrops src
-* 1dd14a6 Fixed: Lisence copyright && Readme code block
-* 59bc662 General Info
-* 6b1ce83 Add General .gitignore
-* b3c33fa Initial commit
-```
-
 ## Authors
 
 ```
 project  : codrops2bower
-repo age : 34 hours
+repo age : 35 hours
 active   : 2 days
-commits  : 8
+commits  : 10
 authors  :
-    8 kaitoborn               100.0%
+   10 kaitoborn               100.0%
 ```
 
 ## License
